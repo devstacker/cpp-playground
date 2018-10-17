@@ -14,6 +14,9 @@ int main() {
     printf("%c %c %c\n", 'a', 'b', 'c');
     // %s : 문자열 출력 - 한글O
     printf("%s\n", "안녕하세요");
+
+
+    
 } 
 
  
