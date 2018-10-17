@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=-erXR6k9TeE
 
 #### basic setting
 
-1. cpp 확장자로 파일 작성후 코드 작성 (hello.cpp)
+1. cpp 확장자로 파일 생성후 코드 작성 (ex hello.cpp)
 
    ```c++
    #include <stdio.h>
